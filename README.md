@@ -1,4 +1,4 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratik Doshi!
 
 <!--
 **Pratik-Doshi-99/pratik-doshi-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+AI-focused graduate student at UC Santa Cruz.
+
+- 🔭 I’m currently working on [Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability/quickstart).
+- 🌱 I’m currently learning how to optimize training and inference for deep learning models.
+- 📜 Here's my [CV](https://pratik-doshi-99.github.io/cv/).
+- 💬 Blogs/Research [here](https://pratik-doshi-99.github.io/year-archive/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratik-doshi-b2a493153/) or [pratikdoshi99 [at] gmail [dot] com](mailto:pratikdoshi99@gmail.com)
