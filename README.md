@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 AI-focused graduate student at UC Santa Cruz.
 
-- 🔭 I’m currently working on [Mechanistic Interpretability](https://www.neelnanda.io/mechanistic-interpretability/quickstart).
+- 🔭 I’m currently working on Applied AI: Finetuning, customizing, and scaling inference for ML models.
 - 🌱 I’m currently learning how to optimize training and inference for deep learning models.
 - 📜 Here's my [CV](https://pratik-doshi-99.github.io/cv/).
 - 💬 Blogs/Research [here](https://pratik-doshi-99.github.io/year-archive/).
