@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 AI-focused graduate student at UC Santa Cruz.
 
 - 🔭 I’m currently working on Applied AI: Finetuning, customizing, and scaling inference for ML models.
-- 🌱 I’m currently learning how to optimize training and inference for deep learning models.
+- 🌱 I’m currently learning [Reinforcement Learning](https://rlhfbook.com/c/11-policy-gradients.html) and how to write blazing fast [GPU kernels](https://github.com/drkennetz/cuda_examples).
 - 📜 Here's my [CV](https://pratik-doshi-99.github.io/cv/).
 - 💬 Blogs/Research [here](https://pratik-doshi-99.github.io/year-archive/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratik-doshi-b2a493153/) or [pratikdoshi99 [at] gmail [dot] com](mailto:pratikdoshi99@gmail.com).
