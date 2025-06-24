@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-AI-focused graduate student at UC Santa Cruz.
+Applied AI professional, looking to build and grow in open source. Grad school @UC Santa Cruz.
 
 - 🔭 I’m currently working on Applied AI: Finetuning, customizing, and scaling inference for ML models.
 - 🌱 I’m currently learning [Reinforcement Learning](https://rlhfbook.com/c/11-policy-gradients.html) and how to write blazing fast [GPU kernels](https://github.com/drkennetz/cuda_examples).
